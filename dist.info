@@ -1,0 +1,14 @@
+--- This file is part of LuaDist project
+
+name = "lua-resty-template"
+version = "1.9"
+
+desc = "Templating Engine (HTML) for Lua and OpenResty"
+author = "Aapo Talvensaari <aapo.talvensaari@gmail.com>"
+license = "BSD"
+url = "https://github.com/bungle/lua-resty-template"
+maintainer = "Peter Kapec"
+
+depends = {
+  "lua >= 5.1",
+}
